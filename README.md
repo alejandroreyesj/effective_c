@@ -1,1 +1,1 @@
-
+# Effective C Notes
